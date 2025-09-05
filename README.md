@@ -270,16 +270,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open source deep learning communities
 - Research papers that inspired the architectural choices
 
-## Citation
 
-If you use this work in your research, please cite:
-
-```bibtex
-@misc{deepfake-detection-2024,
-  title={Multi-Modal Deepfake Detection: A Comprehensive Approach},
-  author={[Your Name]},
-  year={2024},
-  publisher={GitHub},
-  url={https://github.com/[username]/deepfake-detection}
-}
-```
